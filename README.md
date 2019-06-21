@@ -1,5 +1,7 @@
 ## Welcome to BTSDb
+### Bangtan Basics (according to me). 
 
+I have only been a fan of BTS for a short while, but I have learned so much in uch a small amount of time. 
 You can use the [editor on GitHub](https://github.com/abbiesue/BTSDb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
